@@ -2,7 +2,7 @@
 """
 Created on Sun Feb 14 14:32:30 2021
 
-@author: Eric Burns
+@author: Eric B
 
 This program is designed to scan an IP address for all open ports
 and list each of them.
