@@ -2,7 +2,7 @@
 """
 Created on Thu Mar  4 22:18:23 2021
 
-@author: Eric Burns
+@author: Eric B
 
 This tool is used to crack passwords from a shadow file by using any
 wordlist you put a path for. I removed the Blowfish and Crypt algorithms methods
